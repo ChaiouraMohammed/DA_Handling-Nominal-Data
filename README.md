@@ -7,7 +7,7 @@ Nominal data is a type of data you can use to name or label variables that numbe
 ![image](https://github.com/ChaiouraMohammed/DA_Handling-Nominal-Data/assets/91562298/4160307c-ae6c-4b97-bc20-3ba74b3991c2)
 
 ## Okee , but How can we hande this ... ? 
-Let's use zusammen Scikit-learn : 
+Let's use zusammen Scikit-learn und natürlich OneHotEncoder :  
 - Library : SK-Learn
 - Module : preprocessing
   
